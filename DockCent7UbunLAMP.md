@@ -1,4 +1,4 @@
-Install CentOS-7 on Oracle VirtualBox VM.
+Install CentOS-7 on Oracle VirtualBox VM
 ================
 * Download the **[CentOS-7 ISO file](https://www.centos.org/download/).** Choose the DVD ISO option and any mirror link would work fine.
 * Open the Oracel VM VirtualBox Manager.
