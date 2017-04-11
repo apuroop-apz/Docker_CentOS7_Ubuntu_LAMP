@@ -21,7 +21,7 @@ Install Docker on CentOS-7
 * `systemctl status docker.service` *Checking the docker service.*
 * `docker run --rm hello-world` *Testing docker using hello-world.*
 
-Image goes in here.
+![Hello-World](/apuroop-apz/Docker_CentOS7_Ubuntu_LAMP/figs/1.PNG)
 
 Note: `su - root` *This command switches to the superuser and sets up the environment like it was logged in directly. Switching to root is always advisable before firing up the docker engine.*
 
@@ -36,7 +36,7 @@ Pulling Ubuntu image using Docker service on CentOS-7
 * `apt-get update` *If this command runs fine then we are successfully in the Ubuntu container*
 * Open a new terminal, `su - root` > `docker ps` *Lists the containers that are running currently which will be Ubuntu in our case*
 
-Image goes here.
+![Ubuntu up and running](/apuroop-apz/Docker_CentOS7_Ubuntu_LAMP/figs/UbuntuInsideCentOS.PNG)
 
 --------
 
