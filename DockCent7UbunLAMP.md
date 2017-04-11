@@ -4,7 +4,7 @@ Install CentOS-7 on Oracle VirtualBox VM.
 * Open the Oracel VM VirtualBox Manager.
 * Click New >> Name: **CentOS-7** | Type: **Linux** | Version: **RedHat (64-bit)** | Memory size: **4096** | **Creating a virtual hard disk** | **VDI (VirtualBox Disk Image)** | **Dynamically allocated** | File size: **32.00 GB** | Click Create.
 * Right click on the CentOS-7 and select Settings > Storage > Under Controller: IDE - select Empty > On the right hand side > Choose the Disk icon and select the downloaded ISO file from the previous step. Click OK.
-* Click Start > **Install CentOS 7** > Most of the options are self explanatory > SOFTWARE SELECTION: **Server with GUI** > Everything else will be automatically detected > **Begin Installation** > Setup the User settings > **Reboot** after the installation is successfully done.
+* Click Start > **Install CentOS 7** > Most of the options are self explanatory > SOFTWARE SELECTION: **Server with GUI** > Everything else will be automatically detected > **Begin Installation** > Setup the User settings > **Reboot** after the installation is successfully done.<br>
 Note: *Need to switch ON the wired connection every time we start the VM so that we can connect to the internet.*
 
 ----------
